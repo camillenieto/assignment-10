@@ -1,0 +1,10 @@
+Name: Camille S. Nieto
+Age: 19
+Birthdate: 02/06/2003
+Gender: Female
+Address: 1234 Asdfghjkl St., Brgy. Qwerty, Sta. Maria, Bulacan , Philippines
+Phone: 09123456789
+Email: camilleganda@gmail.com
+
+Time: 14:49:57 PM  
+ Date: February 17, 2022
